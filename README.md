@@ -19,4 +19,4 @@ Key requirement: company needs documentation that salaried employees did or did 
 - X Bootstrap -> formatting
 
 ## Refactor TODOS:
--refactor user association integration test in post_spec
+- Refactor user association integration test in post_spec
