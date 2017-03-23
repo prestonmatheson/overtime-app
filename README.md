@@ -4,9 +4,9 @@ Key requirement: company needs documentation that salaried employees did or did 
 
 ## Models
 
-- Post -> date:date rationale:text
-- User -> Devise
-- AdminUser -> STI
+- X Post -> date:date rationale:text
+- X User -> Devise
+- X AdminUser -> STI
 
 ## Features:
 - Approval Workflow
@@ -16,7 +16,7 @@ Key requirement: company needs documentation that salaried employees did or did 
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-- Bootstrap -> formatting
+- X Bootstrap -> formatting
 
 ## Refactor TODOS:
 -refactor user association integration test in post_spec
